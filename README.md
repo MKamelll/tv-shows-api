@@ -4,6 +4,8 @@
 
 `npm start` to run.
 
-`http://localhost:YOUR_PORT/series/[posters|episodes|actors|NOTHING-RETURNS-BASIC DETAILS]/SHOW-NAME`
+`http://localhost:YOUR_PORT/series/[posters|episodes|actors|NOTHING-RETURNS-BASIC-DETAILS]/SHOW-NAME`
 
-in case of episodes you can query pages adding `?page=NUMBER`
+In case of episodes you can query pages adding `?page=NUMBER`
+
+Create a `.env` file using `env-example` as a template.
