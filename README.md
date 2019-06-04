@@ -9,3 +9,4 @@
 In case of episodes you can query pages adding `?page=NUMBER`
 
 Create a `.env` file using `env-example` as a template.
+Create a `token.json` file using `token-example` as a template.
